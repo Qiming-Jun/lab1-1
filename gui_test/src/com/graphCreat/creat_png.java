@@ -1,4 +1,4 @@
-package graph_creat;
+package com.graphCreat;
 
 import java.io.BufferedWriter;
 import java.io.File;

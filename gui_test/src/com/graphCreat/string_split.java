@@ -1,4 +1,4 @@
-package graph_creat;
+package com.graphCreat;
 
 public class string_split{
 	public final static int MAXN = 1000;

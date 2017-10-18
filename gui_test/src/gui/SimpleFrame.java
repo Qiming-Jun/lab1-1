@@ -11,7 +11,7 @@ import java.nio.file.Files;
 
 import javax.swing.filechooser.FileFilter;
 
-import graph_creat.textAnalyze;
+import com.graphCreat.textAnalyze;
 
 import javax.swing.*;
 import javax.swing.border.BevelBorder;
