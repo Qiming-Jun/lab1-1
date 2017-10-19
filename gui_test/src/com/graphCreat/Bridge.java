@@ -6,7 +6,7 @@ import java.util.Stack;
  * @author admin
  *t
  */
-public class Bridge extends creat_png {
+public class Bridge extends CreatPng {
   /**
    * Fg.
    */
